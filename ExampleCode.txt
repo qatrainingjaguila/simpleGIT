@@ -1,2 +1,2 @@
 sample text
-Edited by Carlos
+Making a change and requesting for merge (JA)
